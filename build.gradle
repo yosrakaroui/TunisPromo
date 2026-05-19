@@ -1,0 +1,12 @@
+// Fichier Gradle racine du projet TunisPromo.
+// Le plugin Google Services est obligatoire pour Firebase Auth et Firestore.
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:9.0.1'
+        classpath 'com.google.gms:google-services:4.4.1'
+    }
+}

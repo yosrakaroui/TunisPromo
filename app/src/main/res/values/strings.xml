@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TunisPromo</string>
+    <string name="slogan">Promotions Tunisiennes</string>
+    <string name="connexion">Connexion</string>
+    <string name="inscription">Inscription</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="confirmer_mot_de_passe">Confirmer le mot de passe</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="se_connecter">SE CONNECTER</string>
+    <string name="sinscrire">S\'INSCRIRE</string>
+    <string name="pas_de_compte">Pas de compte ? S\'inscrire</string>
+    <string name="deja_compte">Déjà un compte ? Se connecter</string>
+    <string name="voir_site">VOIR SUR LE SITE</string>
+    <string name="ajouter_favoris">AJOUTER AUX FAVORIS</string>
+    <string name="dashboard_admin">Dashboard Administrateur</string>
+    <string name="admin_subtitle">Bienvenue, vous avez accès aux fonctions d\'administration.</string>
+    <string name="forcer_rechargement">FORCER LE RECHARGEMENT</string>
+    <string name="retour">RETOUR</string>
+    <string name="search_hint">Rechercher</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="logout">Déconnexion</string>
+    <string name="mes_favoris">Mes favoris</string>
+    <string name="favoris_vides">Aucun favori pour le moment.\nOuvrez une promo et appuyez sur « Ajouter aux favoris ».</string>
+    <string name="admin">Admin</string>
+</resources>

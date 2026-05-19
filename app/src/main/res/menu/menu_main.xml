@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_favorites"
+        android:title="@string/mes_favoris"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/refresh" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/logout" />
+</menu>
